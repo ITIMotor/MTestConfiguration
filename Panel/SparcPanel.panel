@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PanelConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UpdateFrequence>3</UpdateFrequence>
+  <Locked>false</Locked>
+  <Windows>
+    <WindowConfig>
+      <Type>LayoutControlPanel</Type>
+      <Name>Document1</Name>
+      <Text>读写数据</Text>
+    </WindowConfig>
+    <WindowConfig>
+      <Type>LayoutControlPanel</Type>
+      <Name>Document2</Name>
+      <Text>Sparc Control</Text>
+    </WindowConfig>
+    <WindowConfig>
+      <Type>ChartPanel</Type>
+      <Name>Document3</Name>
+      <Text>图表界面</Text>
+    </WindowConfig>
+  </Windows>
+</PanelConfig>
